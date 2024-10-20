@@ -2,6 +2,7 @@ Our goal is to collaborate to make a table top game clock designed specifically 
 # Warhammer 40000 rules change frequently; therefore building a clock which is simple to update is a necessary feature
 # Other Features:
 1. Persistent Clock </br>
+  a. Portable
   a. Capable of syncing with tournament host clock </br>
   b. Broadcastable, shareable, hostable </br>
   c. Permits for time tracking before "Determine First Turn" roll-off occurs # BATTLE SEQUENCE PHASE 11 IN PARIAH NEXUS RULES </br>
