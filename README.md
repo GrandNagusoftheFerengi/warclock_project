@@ -14,7 +14,7 @@ Our goal is to collaborate to make a table top game clock designed specifically 
   c. Incursion (2 hours)</br>
   d. Strike Force (3 hours)</br>
   e. Onslaught (4 hours)</br>
-  f. Grand Tournament (8-hours)
+  f. Grand Tournament (9-hours)
 5. Faction Selection</br>
   a. All current playable armies</br>
   b. 2-player and 4-player </br>
